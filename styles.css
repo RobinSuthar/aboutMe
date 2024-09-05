@@ -1,0 +1,31 @@
+
+.navbar-dark{
+    background-color: blue;
+}
+  
+.offcanvas-end{
+    background-color: blue !important;
+}
+  
+.offcanvas-title{
+    color: white;
+}
+
+.textAboutMe {
+    display: flex !important;
+    justify-content: center !important;
+    margin: 150px 0px 50px 0px ;
+}
+.Intro{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.Skills{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-primary{
+    margin-top: 50px;
+}
